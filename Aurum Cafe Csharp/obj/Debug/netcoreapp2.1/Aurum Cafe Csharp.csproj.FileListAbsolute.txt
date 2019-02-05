@@ -1,0 +1,11 @@
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\bin\Debug\netcoreapp2.1\Aurum Cafe Csharp.deps.json
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\bin\Debug\netcoreapp2.1\Aurum Cafe Csharp.runtimeconfig.json
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\bin\Debug\netcoreapp2.1\Aurum Cafe Csharp.runtimeconfig.dev.json
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\bin\Debug\netcoreapp2.1\Aurum Cafe Csharp.dll
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\bin\Debug\netcoreapp2.1\Aurum Cafe Csharp.pdb
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\obj\Debug\netcoreapp2.1\Aurum Cafe Csharp.csprojAssemblyReference.cache
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\obj\Debug\netcoreapp2.1\Aurum Cafe Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\obj\Debug\netcoreapp2.1\Aurum Cafe Csharp.AssemblyInfoInputs.cache
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\obj\Debug\netcoreapp2.1\Aurum Cafe Csharp.AssemblyInfo.cs
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\obj\Debug\netcoreapp2.1\Aurum Cafe Csharp.dll
+C:\Users\Techmaster\RiderProjects\Aurum Cafe Csharp\Aurum Cafe Csharp\obj\Debug\netcoreapp2.1\Aurum Cafe Csharp.pdb
